@@ -22,11 +22,6 @@ Please note that only **completed projects are public**, while most active repos
 ChefMate is a **mobile application for sharing recipes**, designed to explore modern frameworks and improve skills in UI/UX development.  
 The application was created as a didactic project, but it includes practical and interactive features.
 
-### 🔧 Technologies
-- **Frontend**: Svelte + Framework7  
-- **Build Tools**: Vite  
-- **Hosting**: GitHub Pages  
-
 ### 🌟 Features
 - Dynamic and smooth recipe browsing with progressive loading and skeleton placeholders for an optimal user experience even on slow networks.  
 - Detailed recipe views in modals displaying ingredients, servings, preparation time, nutritional information, and author details.  
