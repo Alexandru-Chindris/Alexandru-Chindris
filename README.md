@@ -17,10 +17,7 @@ Here are some of my projects.
 Please note that only **completed projects are public**, while most active repositories remain private to safeguard implementation methodologies.  
 
 ## 🍴 ChefMate
-[![Project Link](https://img.shields.io/badge/ChefMate-Visit%20Website-orange)](https://alexandru-chindris.github.io/ChefMate/)
-
-**Creator and sole developer**: Alexandru Chindris  
-[LinkedIn](https://www.linkedin.com/in/alexandru-chindris-6a8780213)
+[![Project Link](https://img.shields.io/badge/ChefMate-Visit%20Website-orange)](https://alexandru-chindris.github.io/ChefMate/) 
 
 ChefMate is a **mobile application for sharing recipes**, designed to explore modern frameworks and improve skills in UI/UX development.  
 The application was created as a didactic project, but it includes practical and interactive features.
@@ -31,13 +28,12 @@ The application was created as a didactic project, but it includes practical and
 - **Hosting**: GitHub Pages  
 
 ### 🌟 Features
-- Explore a collection of recipes with images.  
-- Save personal favorites to build your own recipe list.  
-- Share creations with the community.  
-- Responsive design optimized for mobile use.
-
-### 🌐 Live Preview
-Visit the project website here: [ChefMate](https://alexandru-chindris.github.io/ChefMate/)
+- Dynamic and smooth recipe browsing with progressive loading and skeleton placeholders for an optimal user experience even on slow networks.  
+- Detailed recipe views in modals displaying ingredients, servings, preparation time, nutritional information, and author details.  
+- Saving and liking recipes are limited to authenticated users, with real-time synchronized updates between frontend and backend through JWT-protected API calls.  
+- Automatic calculation of total calories per recipe by summing the calories of each ingredient, providing informative values for users.  
+- Creation and uploading of recipes by authenticated users, featuring dynamic ingredient management, image upload preview, and validation of mandatory fields to ensure data completeness.  
+- Responsive design optimized for mobile devices using Framework7, delivering a native experience on iOS and Android.  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alexandru-Chindris&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
