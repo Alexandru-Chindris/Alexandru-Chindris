@@ -53,6 +53,4 @@ Developed with Svelte and Framework7, this project serves as an educational plat
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Alexandru-Chindris&icon=0&color=1)](https://visitcount.itsvg.in)
