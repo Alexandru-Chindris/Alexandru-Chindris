@@ -17,7 +17,7 @@ Here are some of my projects.
 Please note that only **completed projects are public**, while most active repositories remain private to safeguard implementation methodologies.  
 
 ## 🍴 ChefMate
-[![Project Link](https://img.shields.io/badge/ChefMate-Visit%20Website-orange)](https://alexandru-chindris.github.io/ChefMate/) 
+[![Project Link](https://img.shields.io/badge/ChefMate-Visit%20Website-blue)](https://alexandru-chindris.github.io/ChefMate/) 
 
 ChefMate is a **mobile application for sharing recipes**, designed to explore modern frameworks and improve skills in UI/UX development.  
 The application was created as a didactic project, but it includes practical and interactive features.
