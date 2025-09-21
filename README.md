@@ -30,6 +30,15 @@ The application was created as a didactic project, but it includes practical and
 - Creation and uploading of recipes by authenticated users, featuring dynamic ingredient management, image upload preview, and validation of mandatory fields to ensure data completeness.  
 - Responsive design optimized for mobile devices using Framework7, delivering a native experience on iOS and Android.  
 
+## 🗒️ MemoMate  
+[![Project Link](https://img.shields.io/badge/MemoMate-Visit%20Website-blue)](https://alexandru-chindris.github.io/MemoMate/)
+
+MemoMate is a **mobile application designed as an initial learning project** to get hands-on practice with mobile development technologies.  
+Developed with Svelte and Framework7, this project serves as an educational platform to explore UI design and mobile functionalities in a modern tech stack.
+
+### ⚠️ Project Status  
+This project **lacks several important features**. It is primarily meant to familiarize with development workflows rather than deliver a complete product.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alexandru-Chindris&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Alexandru-Chindris&theme=dark&hide_border=false)<br/>
