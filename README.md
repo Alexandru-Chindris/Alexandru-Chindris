@@ -36,8 +36,12 @@ The application was created as a didactic project, but it includes practical and
 MemoMate is a **mobile application designed as an initial learning project** to get hands-on practice with mobile development technologies.  
 Developed with Svelte and Framework7, this project serves as an educational platform to explore UI design and mobile functionalities in a modern tech stack.
 
-### ⚠️ Project Status  
-This project **lacks several important features**. It is primarily meant to familiarize with development workflows rather than deliver a complete product.
+### 🌟 Features
+- Simple and clean interface for creating and managing notes and memos.  
+- Basic functionalities for adding, and deleting notes.  
+- Mobile-optimized design for easy use on smartphones and tablets.  
+- Limited feature set, as this is an early-stage project meant for learning and experimentation.  
+- Future improvements planned to enhance usability and add advanced capabilities.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alexandru-Chindris&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
