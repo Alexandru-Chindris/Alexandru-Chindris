@@ -142,7 +142,7 @@ The project helped me work on both application logic and user experience, with p
 
 Meglio is an e-commerce application developed with Svelte to explore the architecture, structure, and user experience behind a modern online store.
 
-The platform allows users to browse clothing products and interact with a structured shopping interface, with a focus on usability, clarity, and responsive design.
+The platform focuses on product browsing, responsive interfaces, and the organization of a modern shopping experience.
 
 Working on Meglio gave me the opportunity to improve my understanding of frontend organization, reusable components, application structure, and the design decisions behind an e-commerce experience.
 
@@ -153,60 +153,29 @@ Working on Meglio gave me the opportunity to improve my understanding of fronten
 
 ---
 
-## 🧠 Algorithms & Data Structures
+## 🎓 University Projects
 
-**University of Turin — Academic Project**
+A selection of academic projects developed during my Computer Science studies at the **University of Turin**, focused on applying theoretical concepts through practical implementation.
 
-A project focused on implementing fundamental algorithms and data structures from scratch.
+### 🧠 Algorithms & Data Structures
 
-The project includes:
+Implementation in C of fundamental algorithms and data structures, including a hybrid sorting algorithm, custom Hash Table, ternary Heap Priority Queue, and sparse Graph.
 
-- a hybrid sorting algorithm combining QuickSort and Selection Sort
-- a custom Hash Table implementation
-- a priority queue based on a ternary heap
-- a sparse graph structure
+The project focused on algorithmic complexity, memory management, testing, and implementation choices.
 
-The project required particular attention to algorithmic complexity, memory management, implementation choices, testing, and correctness.
+**Technologies:** `C`
 
-It was especially useful for strengthening my understanding of how data structures work internally rather than relying only on ready-made implementations.
+### ⚙️ Operating Systems
 
-**Technologies:**  
-`C`
+Concurrent cafeteria simulation focused on process management, synchronization, shared resources, and inter-process communication in a Linux environment.
 
-<sub>🔗 Project link currently unavailable — it will be added as soon as possible.</sub>
+**Technologies:** `C` · `Linux`
 
----
+### 🅿️ Blinkin Park
 
-## ⚙️ Operating Systems
+Relational database project for parking management, covering domain analysis, data modelling, relational schema design, data population, and queries.
 
-**University of Turin — Cafeteria Simulation**
-
-A concurrent cafeteria simulation developed as part of an Operating Systems project.
-
-The application models multiple independent entities that need to communicate and coordinate while accessing shared resources.
-
-The project allowed me to work directly with process management, synchronization, inter-process communication, and resource coordination in a Linux environment.
-
-It was a valuable opportunity to understand how operating system concepts translate into real implementation challenges.
-
-**Technologies:**  
-`C` · `Linux`
-
-<sub>🔗 Project link currently unavailable — it will be added as soon as possible.</sub>
-
----
-
-## 🅿️ Blinkin Park
-
-**Parking management database project**
-
-Blinkin Park is an academic project focused on the design of a relational database for managing a parking system.
-
-The project covered the complete database design process, from understanding the application domain to defining entities, relationships, schemas, data, and queries.
-
-It helped me develop a more structured approach to data modelling and to translating real-world requirements into a consistent relational architecture.
-
-<sub>🔗 Project link currently unavailable — it will be added as soon as possible.</sub>
+<sub>🔗 University project links will be added as soon as they become publicly available.</sub>
 
 ---
 
