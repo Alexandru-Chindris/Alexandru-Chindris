@@ -1,56 +1,180 @@
-# 💫 About Me:
-Curious and always eager to learn, I thrive on tackling new challenges and working on innovative projects.<br>Passionate about exploring new technologies, especially in mobile app development and fintech.<br>I bring enthusiasm, adaptability, and a drive for continuous growth to every project.
+<h1 align="center">Hi 👋, I'm Alexandru Chindris</h1>
 
-## 🔒 About My Repositories
-All repositories are private to protect the implementation technologies used.  
-The source code is available **only upon request**.  
-Only completed and stable projects are made publicly accessible.
+<p align="center">
+  <b>Computer Science Student @ University of Turin</b><br>
+  Software Development · Problem Solving · Continuous Learning
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexandru-chindris-6a8780213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+<p align="center">
+  <i>Building things to understand how things work.</i>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandru-chindris-6a8780213">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-# 📂 Projects
-Here are some of my projects.  
-Please note that only **completed projects are public**, while most active repositories remain private to safeguard implementation methodologies.  
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science student at the University of Turin** with a passion for computers and technology that started when I was a kid.
+
+I enjoy building projects that challenge me to explore new technologies, understand how systems work, and turn ideas — or everyday problems — into working software.
+
+For me, programming is not only about making something work. I like to approach problems methodically, understand the context behind them, evaluate different solutions, and take the time to choose an approach that is **clean, efficient and appropriate for the problem being solved**.
+
+Most of my projects are driven by curiosity: sometimes I build something because I need it, sometimes because I want to understand a technology better, and sometimes simply because the problem looks interesting enough to solve.
+
+I'm constantly learning, experimenting and looking for the next challenge that can push me a little further.
+
+---
+
+## 🛠️ Technologies
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,cs,html,css,php" />
+</p>
+
+### Web & Application Development
+<p>
+  <img src="https://skillicons.dev/icons?i=svelte,nodejs,express,nextjs,tailwind,vite" />
+</p>
+
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,nginx,figma,arduino" />
+</p>
+
+---
+
+# 🚀 Selected Projects
+
+My projects are an important part of how I learn.
+
+They range from university assignments focused on **algorithms, operating systems and databases** to personal applications created to experiment with modern technologies and solve practical problems.
+
+---
 
 ## 🍴 ChefMate
-[![Project Link](https://img.shields.io/badge/ChefMate-Visit%20Website-blue)](https://alexandru-chindris.github.io/ChefMate/) 
 
-ChefMate is a **mobile application for sharing recipes**, designed to explore modern frameworks and improve skills in UI/UX development.  
-The application was created as a didactic project, but it includes practical and interactive features.
+**Mobile recipe-sharing platform**
 
-### 🌟 Features
-- Dynamic and smooth recipe browsing with progressive loading and skeleton placeholders for an optimal user experience even on slow networks.  
-- Detailed recipe views in modals displaying ingredients, servings, preparation time, nutritional information, and author details.  
-- Saving and liking recipes are limited to authenticated users, with real-time synchronized updates between frontend and backend through JWT-protected API calls.  
-- Automatic calculation of total calories per recipe by summing the calories of each ingredient, providing informative values for users.  
-- Creation and uploading of recipes by authenticated users, featuring dynamic ingredient management, image upload preview, and validation of mandatory fields to ensure data completeness.  
-- Responsive design optimized for mobile devices using Framework7, delivering a native experience on iOS and Android.  
+ChefMate is a mobile-oriented application built to explore modern web and mobile technologies while designing a complete interactive product.
 
-## 🗒️ MemoMate  
-[![Project Link](https://img.shields.io/badge/MemoMate-Visit%20Website-blue)](https://alexandru-chindris.github.io/MemoMate/)
+It allows users to browse, create and manage recipes, interact with content and access personalized functionality through authentication.
 
-MemoMate is a **mobile application designed as an initial learning project** to get hands-on practice with mobile development technologies.  
-Developed with Svelte and Framework7, this project serves as an educational platform to explore UI design and mobile functionalities in a modern tech stack.
+**Highlights:**  
+`Svelte` · `Framework7` · `Node.js` · `REST API` · `JWT` · `MongoDB`
 
-### 🌟 Features
-- Simple and clean interface for creating and managing notes and memos.  
-- Basic functionalities for adding, and deleting notes.  
-- Mobile-optimized design for easy use on smartphones and tablets.  
-- Limited feature set, as this is an early-stage project meant for learning and experimentation.  
-- Future improvements planned to enhance usability and add advanced capabilities.
+Features include authentication, recipe creation, dynamic ingredient management, image handling, favorites, likes, nutritional information and responsive mobile interfaces.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alexandru-Chindris&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Alexandru-Chindris&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandru-Chindris&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+🔗 [Visit ChefMate](https://alexandru-chindris.github.io/ChefMate/)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Alexandru-Chindris&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
+
+## 🛍️ Meglio
+
+**E-commerce clothing platform**
+
+Meglio is an e-commerce project developed with **Svelte**, created to explore the architecture and user experience behind modern online stores.
+
+The project focuses on building a clean and responsive shopping experience, including product discovery, product presentation and the main interactions expected from an e-commerce platform.
+
+**Technologies:**  
+`Svelte` · `JavaScript` · `HTML` · `CSS`
+
+The project gave me the opportunity to work on both application structure and the design decisions involved in building an intuitive shopping interface.
+
+---
+
+## 🧠 Algorithms & Data Structures
+
+**University of Turin — Algorithms & Data Structures Project**
+
+A collection of implementations developed to study fundamental data structures and algorithmic design through practical programming.
+
+The project includes:
+
+- **HybridSort** — hybrid sorting algorithm combining QuickSort and Selection Sort
+- **Hash Table** — custom hash table implementation
+- **Ternary Heap** — priority queue implemented through a ternary heap
+- **Sparse Graph** — graph implementation based on adjacency lists and hashing
+
+**Technologies:**  
+`C` · `Algorithms` · `Data Structures` · `Memory Management`
+
+Particular attention was given to algorithmic complexity, implementation choices, testing and memory correctness.
+
+---
+
+## ⚙️ Operating Systems — Cafeteria Simulation
+
+**University of Turin — Operating Systems Project**
+
+A concurrent cafeteria simulation developed in C to explore communication and synchronization between processes.
+
+The project uses several operating-system mechanisms, including:
+
+`Processes` · `Shared Memory` · `Semaphores` · `Message Queues`
+
+The goal was to coordinate multiple independent processes while correctly managing synchronization, shared resources and inter-process communication.
+
+---
+
+## 🅿️ Blinkin Park
+
+**Relational database for parking management**
+
+A relational database project designed to model the management of a parking system.
+
+The work covered the complete database design process:
+
+`ER Modeling` → `Relational Schema` → `Database Creation` → `Data Population` → `SQL Queries`
+
+**Technologies:**  
+`SQLite` · `SQL` · `Relational Databases`
+
+The project focused not only on implementing the database, but also on correctly translating a real-world domain into a consistent relational model.
+
+---
+
+## 🌐 Other Experiments
+
+I also work on smaller projects and experiments whenever I want to explore a specific technology, concept or idea.
+
+These projects range from frontend experiments and UI effects to networking, hardware and development tools.
+
+Not every experiment becomes a complete application — sometimes the goal is simply to understand something better by building it myself.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alexandru-Chindris&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandru-Chindris&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🔒 About My Repositories
+
+Some repositories are kept private while they are under active development or contain university project material.
+
+Completed projects and selected work are made publicly available whenever possible.
+
+Source code for private projects can be shared when appropriate.
+
+---
+
+<p align="center">
+  <b>Always learning. Always building. Always looking for an interesting problem to solve.</b>
+</p>
