@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexandru Chindris</h1>
+<h1 align="center">Hi 👋, I'm Alex</h1>
 
 <p align="center">
   <b>Computer Science Student @ University of Turin</b><br>
@@ -9,172 +9,197 @@
   <i>Building things to understand how things work.</i>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alexandru-chindris-6a8780213">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student at the University of Turin** with a passion for computers and technology that started when I was a kid.
+I've been passionate about computers and technology since I was a kid.
 
-I enjoy building projects that challenge me to explore new technologies, understand how systems work, and turn ideas — or everyday problems — into working software.
+Today, as a **Computer Science student at the University of Turin**, I use personal and academic projects as a way to explore new technologies, challenge myself, and turn ideas — or everyday problems — into working software.
 
-For me, programming is not only about making something work. I like to approach problems methodically, understand the context behind them, evaluate different solutions, and take the time to choose an approach that is **clean, efficient and appropriate for the problem being solved**.
+I like approaching development methodically: understanding the problem, evaluating its context, and taking the time to find a solution that is not only functional, but also **clean, efficient, and appropriate for its purpose**.
 
-Most of my projects are driven by curiosity: sometimes I build something because I need it, sometimes because I want to understand a technology better, and sometimes simply because the problem looks interesting enough to solve.
+I enjoy working on projects that push me outside my comfort zone and give me the opportunity to understand new concepts by actually building something with them.
 
-I'm constantly learning, experimenting and looking for the next challenge that can push me a little further.
+I'm constantly learning, experimenting, and looking for the next interesting problem to solve.
 
 ---
 
-## 🛠️ Technologies
+## 🚀 Languages & Tools I Use
 
-### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,cs,html,css,php" />
-</p>
-
-### Web & Application Development
-<p>
-  <img src="https://skillicons.dev/icons?i=svelte,nodejs,express,nextjs,tailwind,vite" />
-</p>
-
-### Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,nginx,figma,arduino" />
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
+  </a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42" />
+  </a>
+  <a href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" />
+  </a>
+  <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" />
+  </a>
+  <a href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="42" height="42" />
+  </a>
 </p>
 
 ---
 
 # 🚀 Selected Projects
 
-My projects are an important part of how I learn.
+Projects are one of the main ways I learn and experiment with Computer Science.
 
-They range from university assignments focused on **algorithms, operating systems and databases** to personal applications created to experiment with modern technologies and solve practical problems.
+Some of my repositories remain private while they are under active development or contain university project material. Completed projects and selected work are made publicly available whenever possible.
+
+Private source code can be shared when appropriate.
 
 ---
 
 ## 🍴 ChefMate
 
-**Mobile recipe-sharing platform**
+**Mobile recipe-sharing application**
 
-ChefMate is a mobile-oriented application built to explore modern web and mobile technologies while designing a complete interactive product.
+ChefMate is a project created to explore modern application development while building a complete and interactive product.
 
-It allows users to browse, create and manage recipes, interact with content and access personalized functionality through authentication.
+Users can browse recipes, create their own content, manage ingredients, interact with recipes, and access personalized features through authentication.
 
-**Highlights:**  
-`Svelte` · `Framework7` · `Node.js` · `REST API` · `JWT` · `MongoDB`
+The project helped me work on both application logic and user experience, with particular attention to usability, responsiveness, and the interaction between different parts of the application.
 
-Features include authentication, recipe creation, dynamic ingredient management, image handling, favorites, likes, nutritional information and responsive mobile interfaces.
+**Technologies:**  
+`Svelte` · `JavaScript` · `Node.js` · `MongoDB` · `HTML` · `CSS`
 
-🔗 [Visit ChefMate](https://alexandru-chindris.github.io/ChefMate/)
+🔗 [Project / Repository](LINK_HERE)
 
 ---
 
 ## 🛍️ Meglio
 
-**E-commerce clothing platform**
+**Clothing e-commerce platform**
 
-Meglio is an e-commerce project developed with **Svelte**, created to explore the architecture and user experience behind modern online stores.
+Meglio is an e-commerce application developed to explore how a modern online shopping experience can be designed and implemented.
 
-The project focuses on building a clean and responsive shopping experience, including product discovery, product presentation and the main interactions expected from an e-commerce platform.
+The platform allows users to browse clothing products and interact with a structured shopping interface, with a focus on clarity, usability, and responsive design.
+
+Building Meglio gave me the opportunity to better understand application structure, frontend organization, and the design decisions behind an e-commerce experience.
 
 **Technologies:**  
 `Svelte` · `JavaScript` · `HTML` · `CSS`
 
-The project gave me the opportunity to work on both application structure and the design decisions involved in building an intuitive shopping interface.
+🔗 [Project / Repository](LINK_HERE)
 
 ---
 
 ## 🧠 Algorithms & Data Structures
 
-**University of Turin — Algorithms & Data Structures Project**
+**University of Turin — Academic Project**
 
-A collection of implementations developed to study fundamental data structures and algorithmic design through practical programming.
+A project focused on implementing fundamental algorithms and data structures from scratch.
 
-The project includes:
+It includes the development of:
 
-- **HybridSort** — hybrid sorting algorithm combining QuickSort and Selection Sort
-- **Hash Table** — custom hash table implementation
-- **Ternary Heap** — priority queue implemented through a ternary heap
-- **Sparse Graph** — graph implementation based on adjacency lists and hashing
+- a hybrid sorting algorithm
+- a custom hash table
+- a ternary heap-based priority queue
+- a sparse graph structure
+
+The project required careful attention to algorithmic complexity, memory management, implementation choices, testing, and correctness.
+
+It was particularly useful for strengthening my understanding of how abstract data structures work internally instead of relying only on existing implementations.
 
 **Technologies:**  
-`C` · `Algorithms` · `Data Structures` · `Memory Management`
+`C`
 
-Particular attention was given to algorithmic complexity, implementation choices, testing and memory correctness.
+🔗 [Project / Repository](LINK_HERE)
 
 ---
 
-## ⚙️ Operating Systems — Cafeteria Simulation
+## ⚙️ Operating Systems
 
-**University of Turin — Operating Systems Project**
+**University of Turin — Cafeteria Simulation**
 
-A concurrent cafeteria simulation developed in C to explore communication and synchronization between processes.
+A concurrent cafeteria simulation developed as part of an Operating Systems project.
 
-The project uses several operating-system mechanisms, including:
+The application models multiple independent entities that need to communicate and coordinate while accessing shared resources.
 
-`Processes` · `Shared Memory` · `Semaphores` · `Message Queues`
+The project allowed me to work directly with process management, synchronization, inter-process communication, and resource coordination in a Linux environment.
 
-The goal was to coordinate multiple independent processes while correctly managing synchronization, shared resources and inter-process communication.
+**Technologies:**  
+`C` · `Linux`
+
+🔗 [Project / Repository](LINK_HERE)
 
 ---
 
 ## 🅿️ Blinkin Park
 
-**Relational database for parking management**
+**Parking management database project**
 
-A relational database project designed to model the management of a parking system.
+Blinkin Park is an academic project focused on the design of a relational database for managing a parking system.
 
-The work covered the complete database design process:
+The project covered the complete design process, starting from the representation of the real-world domain and progressing through data modelling, schema design, data population, and queries.
 
-`ER Modeling` → `Relational Schema` → `Database Creation` → `Data Population` → `SQL Queries`
+It helped me develop a more structured approach to modelling information and translating real-world requirements into a consistent database architecture.
 
-**Technologies:**  
-`SQLite` · `SQL` · `Relational Databases`
-
-The project focused not only on implementing the database, but also on correctly translating a real-world domain into a consistent relational model.
+🔗 [Project / Repository](LINK_HERE)
 
 ---
 
-## 🌐 Other Experiments
+## 🧪 Experiments & Smaller Projects
 
-I also work on smaller projects and experiments whenever I want to explore a specific technology, concept or idea.
+Alongside larger projects, I regularly build smaller applications and experiments to explore technologies, concepts, and ideas that interest me.
 
-These projects range from frontend experiments and UI effects to networking, hardware and development tools.
+Some are created to solve a practical problem, others simply to understand how something works by implementing it myself.
 
-Not every experiment becomes a complete application — sometimes the goal is simply to understand something better by building it myself.
+These projects range from small web experiments to software, Linux, hardware, and application development exercises.
+
+Many of them remain private or experimental, while the most complete ones may eventually become standalone public projects.
+
+🔗 [More Projects](LINK_HERE)
 
 ---
 
-## 📊 GitHub Activity
+## ⚡ Where to Find Me
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alexandru-Chindris&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandru-Chindris&layout=compact&theme=github_dark&hide_border=true" />
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/alexandru-chindris-6a8780213">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-## 🔒 About My Repositories
-
-Some repositories are kept private while they are under active development or contain university project material.
-
-Completed projects and selected work are made publicly available whenever possible.
-
-Source code for private projects can be shared when appropriate.
-
----
-
 <p align="center">
-  <b>Always learning. Always building. Always looking for an interesting problem to solve.</b>
+  <i>Always learning, building, and looking for the next interesting problem to solve.</i>
 </p>
