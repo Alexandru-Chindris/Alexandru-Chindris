@@ -11,6 +11,16 @@
 
 ---
 
+## ⚡ Where to Find Me
+
+<p>
+  <a href="https://www.linkedin.com/in/alexandru-chindris-6a8780213">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 I've been passionate about computers and technology since I was a kid.
@@ -122,7 +132,7 @@ The project helped me work on both application logic and user experience, with p
 **Technologies:**  
 `Svelte` · `JavaScript` · `Node.js` · `Express` · `MongoDB` · `HTML` · `CSS`
 
-🔗 [Project / Repository](LINK_HERE)
+🔗 [Visit ChefMate](https://alexandru-chindris.github.io/ChefMate/)
 
 ---
 
@@ -139,7 +149,7 @@ Working on Meglio gave me the opportunity to improve my understanding of fronten
 **Technologies:**  
 `Svelte` · `JavaScript` · `HTML` · `CSS`
 
-🔗 [Project / Repository](LINK_HERE)
+<sub>🔗 Project link currently unavailable — it will be added as soon as possible.</sub>
 
 ---
 
@@ -163,7 +173,7 @@ It was especially useful for strengthening my understanding of how data structur
 **Technologies:**  
 `C`
 
-🔗 [Project / Repository](LINK_HERE)
+<sub>🔗 Project link currently unavailable — it will be added as soon as possible.</sub>
 
 ---
 
@@ -182,7 +192,7 @@ It was a valuable opportunity to understand how operating system concepts transl
 **Technologies:**  
 `C` · `Linux`
 
-🔗 [Project / Repository](LINK_HERE)
+<sub>🔗 Project link currently unavailable — it will be added as soon as possible.</sub>
 
 ---
 
@@ -196,7 +206,7 @@ The project covered the complete database design process, from understanding the
 
 It helped me develop a more structured approach to data modelling and to translating real-world requirements into a consistent relational architecture.
 
-🔗 [Project / Repository](LINK_HERE)
+<sub>🔗 Project link currently unavailable — it will be added as soon as possible.</sub>
 
 ---
 
@@ -210,17 +220,7 @@ These projects range from small web experiments to software, Linux, hardware, an
 
 Many of them remain private or experimental, while the most complete ones may eventually become standalone public projects.
 
-🔗 [More Projects](LINK_HERE)
-
----
-
-## ⚡ Where to Find Me
-
-<p>
-  <a href="https://www.linkedin.com/in/alexandru-chindris-6a8780213">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<sub>🔗 Additional projects will be linked as soon as they become publicly available.</sub>
 
 ---
 
