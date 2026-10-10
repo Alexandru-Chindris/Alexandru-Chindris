@@ -149,7 +149,7 @@ Working on Meglio gave me the opportunity to improve my understanding of fronten
 **Technologies:**  
 `Svelte` · `JavaScript` · `HTML` · `CSS`
 
-<sub>🔗 Project link currently unavailable — it will be added as soon as possible.</sub>
+🔗 [Visit Meglio](https://alexandru-chindris.github.io/Meglio-Wearing/)
 
 ---
 
